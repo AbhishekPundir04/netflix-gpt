@@ -2,6 +2,7 @@ import netFlixLogo from "../assets/images/Netflix_Logo_PMS.png"
 
 export const Logo = netFlixLogo;
 export const User_Avatar = "https://avatars.githubusercontent.com/u/122037868?v=4";
+export const Images_Url= "https://image.tmdb.org/t/p/w500/"
 
 export  const API_OPTIONS = {
     method: 'GET',

@@ -18,10 +18,3 @@ const VideoBackground = ({movieId}) => {
 
 export default VideoBackground
 
-
-const Ab = () => {
-  return (
-    <div>VideoBackground</div>
-  )
-}
-
